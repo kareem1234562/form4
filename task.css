@@ -1,0 +1,66 @@
+form{
+    background-color: aliceblue;
+    width: 34rem;
+    height: 24rem;
+    border-radius: 10px;
+    margin-left: 53.5rem;
+   
+    margin-top: 8rem;
+    padding-top: 2rem;
+}
+input{
+    width: 27rem;
+    height: 2rem;
+    border-radius: 5px;
+    margin: 5px 52px;
+    border: solid 1px rgb(0 0 0 / 27%);
+}
+button{
+    width: 27.5rem;
+    height: 2.5rem;
+    border-radius: 5px;
+    margin: 5px 52px;
+    cursor: pointer;
+    color: white;
+    border: solid 0px white;
+   
+    background-color: #24be7a;
+}
+#end{
+    margin: 27px 63px;
+}
+#endcl{
+    color: red;
+}
+input::placeholder{
+   position: relative;
+   left: 20px;
+}
+#cap{
+    background-color: #733084;
+    width: 34rem;
+    height: 3rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: -5rem 7rem;
+    float: right;
+}
+#First{
+    color: white;
+    font-size: 3rem;
+
+  
+}
+#second{
+    color: white;
+   
+}
+#title{
+    margin:13rem 10rem;
+}
+#form{
+  margin-top: -27rem;
+}
